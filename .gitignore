@@ -30,4 +30,4 @@ dist-ssr
 
 uploads/
 
-.vs/
+.vs/server/.env
